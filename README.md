@@ -1,6 +1,6 @@
 # Person-Detection-Tracking
 
-## Images
+## Videos
 
 ### Input Video
 ![Input Video File](/data/input.mp4)
