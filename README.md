@@ -1,6 +1,14 @@
 # Person-Detection-Tracking
 
-## Videos
+## Images
+
+### Input Image
+![Input Image File](/data/sample_input_image.mp4)
+
+### Output Image
+![Output Image File](/data/sample_output_image.mp4)
+
+## Video
 
 ### Input Video
 ![Input Video File](/data/input.mp4)
