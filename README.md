@@ -3,10 +3,10 @@
 ## Images
 
 ### Input Image
-![Input Image File](/data/sample_input_image.mp4)
+![Input Image File](/data/sample_input_image.png)
 
 ### Output Image
-![Output Image File](/data/sample_output_image.mp4)
+![Output Image File](/data/sample_output_image.png)
 
 ## Video
 
