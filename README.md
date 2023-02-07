@@ -1,3 +1,6 @@
 # Person-Detection-Tracking
 
-![Original Image](/data/input.mp4)
+![Input Video File](/data/input.mp4)
+
+
+![Output Video File](/data/output.mp4)
